@@ -303,6 +303,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/cert-se/megatron-java" target="_blank">Megatron</a>
+        </td>
+        <td>
+            Megatron is a tool implemented by CERT-SE which collects and analyses bad IPs, can be used to calculate statistics, convert and analyze log files and in abuse & incident handling.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.misp-project.org/" target="_blank">MISP</a>
         </td>
         <td>
@@ -407,6 +415,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
 <table>
+    <tr>
+        <td>
+            <a href="http://actortrackr.com/" target="_blank">ActorTrackr</a>
+        </td>
+        <td>
+            ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on <a href="https://github.com/dougiep16/actortrackr" target="_blank">GitHub</a>.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/exp0se/bro-intel-generator" target="_blank">bro-intel-generator</a>
@@ -578,6 +594,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://www.fireeye.com/services/freeware/redline.html" target="_blank">Redline</a>
+        </td>
+        <td>
+            A host investigations tool that can be used for, amongst others, IOC analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
@@ -646,6 +670,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/TAXIIProject/yeti" target="_blank">YETI</a>
+        </td>
+        <td>
+            YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
         </td>
     </tr>
 </table>
@@ -744,14 +776,6 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders. 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.fireeye.com/services/freeware/redline.html" target="_blank">Redline</a>
-        </td>
-        <td>
-            A host investigations tool that can be used for, amongst others, IOC analysis.
         </td>
     </tr>
     <tr>
