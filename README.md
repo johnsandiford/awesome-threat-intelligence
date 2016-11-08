@@ -101,6 +101,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
+        </td>
+        <td>
+            The MalShare Project is a public malware repository that provides researchers free access to samples. 
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
         </td>
         <td>
@@ -469,6 +477,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on <a href="https://github.com/dougiep16/actortrackr" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
+        </td>
+        <td>
+            AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others. Source available on <a href="https://bitbucket.org/camp0/aiengine" target="_blank">Bitbucket</a>.
         </td>
     </tr>
     <tr>
