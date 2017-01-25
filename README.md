@@ -192,7 +192,17 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
         </td>
         <td>
-            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&C servers, distribution sites and payment sites.
+            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&mp;C servers, distribution sites and payment sites.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS Suspicious Domains</a>
+        </td>
+        <td>
+            The Suspicious Domains Threat Lists by <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS</a> tracks suspicious domains. It offers 3 lists categorized as either <a href="https://isc.sans.edu/feeds/suspiciousdomains_High.txt" target="_blank">high</a>, <a href="https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt" target="_blank">medium</a> or <a href="https://isc.sans.edu/feeds/suspiciousdomains_Low.txt" target="_blank">low</a> sensitivity, where the high sensitivity list has fewer false positives, whereas the low sensitivty list with more false positives. There is also an <a href="https://isc.sans.edu/feeds/suspiciousdomains_whitelist_approved.txt" target="_blank">approved whitelist</a> of domains.<br/>
+            Finally, there is a suggested <a href="https://isc.sans.edu/block.txt" target="_blank">IP blocklist</a> from <a href="https://dshield.org">DShield</a>.
+
         </td>
     </tr>
     <tr>
@@ -512,6 +522,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.recordedfuture.com/" target="_blank">Recorded Future</a>
+        </td>
+        <td>
+            Recorded Future is a premium SaaS product that automatically unifies threat intelligence from open, closed, and technical sources into a single solution. Their technology uses natural language processing (NLP) and machine learning to deliver that threat intelligence in real time — making Recorded Future a popular choice for IT security teams.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Netflix/Scumblr" target="_blank">Scumblr</a>
         </td>
         <td>
@@ -527,6 +545,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The basic version of Soltra Edge is available for free. It supports a community defense model that is highly interoperable and extensible. It is built with industry standards supported out of the box, including STIX and TAXII.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
+        </td>
+        <td>
+            Anomali STAXX™ gives you a free, easy way to subscribe to any STIX/TAXII feed. Simply download the STAXX client, configure your data sources, and STAXX will handle the rest.
+        </td>
+    </tr>    
     <tr>
         <td>
             <a href="http://stoq.punchcyber.com/" target="_blank">stoQ</a>
@@ -973,7 +999,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/tomchop/yeti" target="_blank">yeti/a>
+            <a href="https://github.com/tomchop/yeti" target="_blank">yeti</a>
         </td>
         <td>
             Your Everyday Threat Intelligence (YETI).
