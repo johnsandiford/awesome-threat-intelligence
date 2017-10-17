@@ -117,6 +117,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/martenson/disposable-email-domains">Disposable Email Domains</a>
+        </td>
+        <td>
+            A collection of anonymous or disposable email domains commonly used to spam/abuse services.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
@@ -181,6 +189,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://riskdiscovery.com/honeydb/" target="_blank">HoneyDB</a>
+        </td> 
+        <td>
+            HoneyDB provides real time data of honeypot activity. This data comes from honeypots deployed on the Internet using the <a href="https://github.com/foospidy/HoneyPy" target="_blank">HoneyPy</a> honeypot. In addition, HoneyDB provides API access to collected honeypot activity, which also includes aggregated data from various honeypot Twitter feeds.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -227,7 +243,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
         </td>
-    </tr>   
+    </tr>
+    <tr>
+        <td>
+            <a href="https://minotr.net/" target="_blank">Minotaur</a>
+        </td>
+        <td>
+        The Minotaur Project is an ongoing research project by the team at NovCon Solutions (novcon.net). It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://services.normshield.com" target="_blank">NormShield Services</a>
@@ -254,10 +278,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
+            <a href="https://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
         </td>
         <td>
-            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&mp;C servers, distribution sites and payment sites.
+            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&amp;C servers, distribution sites and payment sites.
         </td>
     </tr>
     <tr>
@@ -311,7 +335,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
+            <a href="https://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
         </td>
         <td>
             Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
@@ -407,10 +431,10 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
     </tr>
     <tr>
         <td>
-            <a href="https://stixproject.github.io/" target="_blank">STIX</a>
+            <a href="https://oasis-open.github.io/cti-documentation/" target="_blank">STIX 2.0</a>
         </td>
         <td>
-            The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort.
+            The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort. STIX 1.x has been archived <a href="https://stixproject.github.io/" target="_blank">here</a>.
         </td>
     </tr>
     <tr>
@@ -502,7 +526,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://technet.microsoft.com/en-us/security/dn750892" target="_blank">Interflow</a>
+            <a href="https://technet.microsoft.com/en-us/security/dn458536" target="_blank">Interflow</a>
         </td>
         <td>
             Interflow is a security and threat information exchange platform created by Microsoft for professionals working in cybersecurity.
@@ -594,7 +618,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.passivetotal.org/" target="_blank">PassiveTotal</a>
+            <a href="https://community.riskiq.com/" target="_blank">PassiveTotal</a>
         </td>
         <td>
             The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
@@ -627,7 +651,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
+            <a href="https://www.anomali.com/platform/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
             Anomali STAXX™ gives you a free, easy way to subscribe to any STIX/TAXII feed. Simply download the STAXX client, configure your data sources, and STAXX will handle the rest.
@@ -682,6 +706,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
+        </td>
+        <td>
+            The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
+        </td>
+    </tr>
 </table>
 
 
@@ -693,7 +725,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 <table>
     <tr>
         <td>
-            <a href="http://actortrackr.com/" target="_blank">ActorTrackr</a>
+            <a href="https://actortrackr.com/" target="_blank">ActorTrackr</a>
         </td>
         <td>
             ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on <a href="https://github.com/dougiep16/actortrackr" target="_blank">GitHub</a>.
@@ -774,6 +806,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/CylanceSPEAR/CyBot" target="_blank">CyBot</a>
+        </td>
+        <td>
+            CyBot is a threat intelligence chat bot. It can perform several types of lookups offered by custom modules.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
         </td>
         <td>
@@ -802,6 +842,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ciscocsirt/gosint" target="_blank">GOSINT</a>
+        </td>
+        <td>
+            The GOSINT framework is a free project used for collecting, processing, and exporting high quality public indicators of compromise (IOCs).
         </td>
     </tr>
     <tr>
@@ -1095,14 +1143,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/tomchop/yeti" target="_blank">yeti</a>
-        </td>
-        <td>
-            Your Everyday Threat Intelligence (YETI).
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
         </td>
         <td>
@@ -1120,7 +1160,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
 <table>
     <tr>
         <td>
-            <a href="https://github.com/gasgas4/APT_CyberCriminal_Campaign" target="_blank">APT & Cyber Criminal Campaign Collection</a>
+            <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" target="_blank">APT & Cyber Criminal Campaign Collection</a>
         </td>
         <td>
             Extensive collection of (historic) campaigns. Entries come from various sources.
@@ -1136,7 +1176,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://attack.mitre.org/index.php/Main_Page" target="_blank">ATT&CK</a>
+            <a href="https://attack.mitre.org/wiki/Main_Page" target="_blank">ATT&CK</a>
         </td>
         <td>
             Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™) is a model and framework for describing the actions an adversary may take while operating within an enterprise network. ATT&CK is a constantly growing common reference for post-access techniques that brings greater awareness of what actions may be seen during a network intrusion. MITRE is actively working on integrating with related construct, such as CAPEC, STIX and MAEC.
