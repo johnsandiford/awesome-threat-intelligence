@@ -61,6 +61,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.botvrij.eu/">BOTVRIJ.EU</a>
+        </td>
+        <td>
+            Botvrij.eu provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://danger.rulez.sk/projects/bruteforceblocker/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
@@ -221,6 +229,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
+        </td>
+        <td>
+            12,805 Free Yara rules created by <a href="http://icewater.io/" target="_blank">http://icewater.io</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -235,6 +251,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             Probable Whitelist of the top 1 million web sites, as ranked by Majestic. Sites are ordered by the number of referring subnets. More about the ranking can be found on their <a href="https://blog.majestic.com/development/majestic-million-csv-daily/" target="_blank">blog</a>.
         </td>
+    </tr>
+    <tr>
+        <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
+        <td>The files in this link will be updated daily with domains that have been indentified distributing malware during the past 30 days. Collected by malc0de.</td>
     </tr>
     <tr>
         <td>
@@ -277,6 +297,19 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
+        <td><a href="http://data.netlab.360.com/">Netlab OpenData Project</a>
+      </td>
+      <td>
+            The Netlab OpenData project was presented to the public first at ISC' 2016 on August 16, 2016. We currently provide multiple data feeds, including DGA, EK, MalCon, Mirai C2, Mirai-Scanner, Hajime-Scanner and DRDoS Reflector.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.nothink.org/honeypots.php">NoThink!</a>
+        </td>
+        <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://services.normshield.com" target="_blank">NormShield Services</a>
         </td>
@@ -307,6 +340,12 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&amp;C servers, distribution sites and payment sites.
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://report.cs.rutgers.edu/mrtg/drop/dropstat.cgi?start=-86400">Rutgers Blacklisted IPs</a>
+        </td>
+        <td>IP List of SSH Brute force attackers is created from a merged of locally observed IPs and 2 hours old IPs registered at badip.com and blocklist.de</td>
     </tr>
     <tr>
         <td>
@@ -381,6 +420,12 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             ThreatMiner has been created to free analysts from data collection and to provide them a portal on which they can carry out their tasks, from reading reports to pivoting and data enrichment.
             The emphasis of ThreatMiner isn't just about indicators of compromise (IoC) but also to provide analysts with contextual information related to the IoC they are looking at.
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
+        </td>
+        <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
     </tr>
     <tr>
         <td>
@@ -490,6 +535,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             AbuseHelper is an open-source framework for receiving and redistributing abuse feeds and threat intel.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://abuse.io/" target="_blank">AbuseIO</a>
+        </td>
+        <td>
+            A toolkit to receive, process, correlate and notify end users about abuse reports, thereby consuming threat intelligence feeds.
         </td>
     </tr>
     <tr>
@@ -789,10 +842,10 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc" target="_blank">Google APT Search Engine</a>
+            <a href="https://botscout.com/">BotScout</a>
         </td>
         <td>
-            APT Groups, Operations and Malware Search Engine. The sources used for this Google Custom Search are listed on <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank"this</a> GitHub gist.
+            BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
         </td>
     </tr>
     <tr>
@@ -874,6 +927,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc" target="_blank">Google APT Search Engine</a>
+        </td>
+        <td>
+            APT Groups, Operations and Malware Search Engine. The sources used for this Google Custom Search are listed on <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank"this</a> GitHub gist.
         </td>
     </tr>
     <tr>
