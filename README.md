@@ -7,7 +7,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 - [Sources](#sources)
 - [Formats](#formats)
-- [Frameworks](#frameworks-and-platforms)
+- [Frameworks & Platforms](#frameworks-and-platforms)
 - [Tools](#tools)
 - [Research, Standards & Books](#research)
 
@@ -25,6 +25,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Probable Whitelist of the top 1 Million sites from Amazon(Alexa).
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://apility.io" target="_blank">Apility.io</a>
+        </td>
+        <td>
+            Apility.io is a Minimal and Simple anti-abuse API blacklist lookup tool. It helps users to know immediately if an IP, Domain or Email is blacklisted. It automatically extracts all the information in realtime from multiple sources.
         </td>
     </tr>
     <tr>
@@ -149,6 +157,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://dnstrails.com/">DNSTrails</a>
+        </td>
+        <td>
+            Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a <a href="https://securitytrails.com/">IP and domain intelligence API available</a> as well. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
@@ -233,6 +249,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             12,805 Free Yara rules created by <a href="http://icewater.io/" target="_blank">http://icewater.io</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
+        </td>
+        <td>
+            Malware samples <a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">collection and analysis</a>, <a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">blocklist service, <a href="https://infosec.cert-pa.it/cve.html">vulnerabilities database</a> and more. Created and managed my <a href="https://www.cert-pa.it">CERT-PA</a>
         </td>
     </tr>
     <tr>
@@ -382,7 +406,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
+            <a href="https://siteinfo.statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
         </td>
         <td>
             Probable Whitelist of the top 1 million web sites, as ranked by Statvoo.
@@ -402,6 +426,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://threatconnect.com/blog/ingest-technical-blogs-reports/" target="_blank">Technical Blogs and Reports, by ThreatConnect</a>
+        </td>
+        <td>
+            This source is being populated with the content from over 90 open source, security blogs. IOCs (<a href="https://en.wikipedia.org/wiki/Indicator_of_compromise" target="_blank">Indicators of Compromise</a>) are parsed out of each blog and the content of the blog is formatted in markdown.
         </td>
     </tr>
     <tr>
@@ -426,6 +458,12 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
         </td>
         <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://urlhaus.abuse.ch">URLhaus</a>
+        </td>
+        <td>URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.</td>
     </tr>
     <tr>
         <td>
@@ -496,6 +534,14 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
         <td>
             The Malware Attribute Enumeration and Characterization (MAEC) projects is aimed at creating and providing a standardized language for sharing structured information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2" target="_blank">OpenC2</a>
+        </td>
+        <td>
+            OASIS Open Command and Control (OpenC2) Technical Committee. The OpenC2 TC will base its efforts on artifacts generated by the OpenC2 Forum. Prior to the creation of this TC and specification, the OpenC2 Forum was a community of cyber-security stakeholders that was facilitated by the National Security Agency (NSA). The OpenC2 TC was chartered to draft documents, specifications, lexicons or other artifacts to fulfill the needs of cyber security command and control in a standardized manner.
         </td>
     </tr>
     <tr>
@@ -711,6 +757,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://pulsedive.com/" target="_blank">Pulsedive</a>
+        </td>
+        <td>
+            Pulsedive is a free, community threat intelligence platform that is consuming open-source feeds, enriching the IOCs, and running them through a risk-scoring algorithm to improve the quality of the data. It allows users to submit, search, correlate, and update IOCs; lists "risk factors" for why IOCs are higher risk; and provides a high level view of threats and threat activity.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.recordedfuture.com/" target="_blank">Recorded Future</a>
         </td>
         <td>
@@ -757,6 +811,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The Threat Analysis, Reconnaissance, and Data Intelligence System (TARDIS) is an open source framework for performing historical searches using attack signatures.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.threatconnect.com/" target="_blank">ThreatConnect</a>
+        </td>
+        <td>
+            ThreatConnect is a platform with threat intelligence, analytics, and orchestration capabilities. It is designed to help you collect data, produce intelligence, share it with others, and take action on it.
         </td>
     </tr>
     <tr>
@@ -911,6 +973,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Simple Bash IOC Scanner.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/spacepatcher/FireHOL-IP-Aggregator" target="_blank">FireHOL IP Aggregator</a>
+        </td>
+        <td>
+            Аpplication for keeping feeds from FireHOL <a href="https://github.com/firehol/blocklist-ipsets" target="_blank">blocklist-ipsets</a> (only *.netset and *.ipset files are aggregated) in PostgreSQL with including historical changes. For requests developed HTTP-based API service.
         </td>
     </tr>
     <tr>
@@ -1094,7 +1164,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/mgeide/poortego" target="_blank">poortego</a>
         </td>
         <td>
-            Open-source ruby project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary database).
+            Open-source project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary database). Originally developed in ruby, but new codebase completely rewritten in python.
         </td>
     </tr>
     <tr>
@@ -1356,6 +1426,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             The intrusion kill chain as presented in this paper provides one with a structured approach to intrusion analysis, indicator extraction and performing defensive actions.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.isao.org" target="_blank">ISAO Standards Organization</a>
+        </td>
+        <td>
+            The ISAO Standards Organization is a non-governmental organization established on October 1, 2015. Its mission is to improve the Nation’s cybersecurity posture by identifying standards and guidelines for robust and effective information sharing related to cybersecurity risks, incidents, and best practices.
         </td>
     </tr>
     <tr>
